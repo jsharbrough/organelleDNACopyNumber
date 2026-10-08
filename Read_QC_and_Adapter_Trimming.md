@@ -42,8 +42,8 @@
 	fastqc -h
 
 #### Download necessary files for carrying out read QC and adapter trimming
-#### Job submission bash script – [readQC.sh]()
-#### [getLine.py Python script]()
+#### Job submission bash script – [readQC.sh](https://github.com/jsharbrough/organelleDNACopyNumber/blob/57039b289202fd1c39943d63cb6cea68bb9f831e/scripts/readQC.sh)
+#### [getLine.py Python script](https://github.com/jsharbrough/organelleDNACopyNumber/blob/57039b289202fd1c39943d63cb6cea68bb9f831e/scripts/getLine.py)
 	
 #### On your local machine, open a Terminal session and put all necessary ancillary files and scripts in the project folder
     cd /path/to/directory/containing/files
