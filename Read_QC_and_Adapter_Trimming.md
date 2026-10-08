@@ -103,5 +103,5 @@
 	
 	scp username@braid2.cnsi.ucsb.edu:/scratch/<username>/projectName/path/to/read/files/<Name_of_Sequencing_Run>.posttrim_fastqc.tar.gz .
 	
-#### Open the tarballs and inspect the pre- and post- QC files to make sure everything looks good. Then proceed to the [3) Repeat Modeling and Masking]() step
+#### Open the tarballs and inspect the pre- and post- QC files to make sure everything looks good. Then proceed to the [3) Repeat Modeling and Masking](https://github.com/jsharbrough/organelleDNACopyNumber/blob/Read_QC_Patch/Repeat_Modeling_and_Masking.md) step
 	
